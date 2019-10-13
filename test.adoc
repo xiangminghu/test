@@ -1,0 +1,7 @@
+== Hello, World!
+It is time to say so.
+
+NOTE: This is a sample note.
+
+[NOTE]
+Another note.
